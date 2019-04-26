@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="readme-src/modest.css">
 
-# Online Travel Reservation
+# Kayak Travel Reservation
 
 The goal was to build a distributed enterprise web application which enables the user not only to search for Cars, Hotels and Flights and make a booking but also login/signup along with editing user preferences and viewing travel history. As well as create a Admin side which can be used to add/edit/delete Flights, Cars and Hotels and also be able to delete the user and view the analytics/statistics.
 
@@ -65,8 +65,8 @@ The goal was to build a distributed enterprise web application which enables the
 <br/>
 
 ### Database
-> Tables with large amount of data and which doesn't need transaction support in mongodb, flight car hotel
-Tables with critical data and information that needs transaction support in mysql, like booking details, payment details and user info
+> Tables with large amount of data and which doesn't need transaction support in mongodb such as flight car hotel
+> Tables with critical data and information that needs transaction support in mysql, like booking details, payment details and user info
 
 
 ## Screenshots

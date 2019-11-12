@@ -2,16 +2,11 @@
 
 # Online Travel Reservation
 
-## Goal
-
-* The goal is to build a distributed enterprise web application which enables the user not only to search for Cars, Hotels and Flights and make a booking but also login/signup along with editing user preferences and viewing travel history. As well as create a Admin side which can be used to add/edit/delete Flights, Cars and Hotels and also be able to delete the user and view the analytics/statistics.
+The goal was to build a distributed enterprise web application which enables the user not only to search for Cars, Hotels and Flights and make a booking but also login/signup along with editing user preferences and viewing travel history. As well as create a Admin side which can be used to add/edit/delete Flights, Cars and Hotels and also be able to delete the user and view the analytics/statistics.
 
 ## System Design
 
 ### Technology stack
-
-![](readme-src/2.png)
-
 <br/>
 <table>
 <thead>
